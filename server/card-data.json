@@ -1,0 +1,267 @@
+[
+  {
+    "name": "Your laptop dies right before a deadline",
+    "image": "/images/laptop_dead.png",
+    "bad_luck_index": 85.5
+  },
+  {
+    "name": "Forgetting your student ID for an exam",
+    "image": "/images/no_id.png",
+    "bad_luck_index": 60.0
+  },
+  {
+    "name": "Spilling coffee on your final project",
+    "image": "/images/coffee_spill.png",
+    "bad_luck_index": 72.0
+  },
+  {
+    "name": "Getting stuck in a broken elevator on campus",
+    "image": "/images/elevator.png",
+    "bad_luck_index": 45.0
+  },
+  {
+    "name": "Realizing you're in the wrong lecture hall halfway through the class",
+    "image": "/images/wrong_lecture.png",
+    "bad_luck_index": 15.0
+  },
+  {
+    "name": "Accidentally sending a meme to your professor instead of your friend",
+    "image": "/images/meme_prof.png",
+    "bad_luck_index": 30.5
+  },
+  {
+    "name": "Waking up late and missing your alarm for a morning final",
+    "image": "/images/overslept.png",
+    "bad_luck_index": 92.0
+  },
+  {
+    "name": "Your presentation file gets corrupted minutes before your turn",
+    "image": "/images/corrupted_file.png",
+    "bad_luck_index": 95.0
+  },
+  {
+    "name": "Getting locked out of your dorm room naked",
+    "image": "/images/locked_out_naked.png",
+    "bad_luck_index": 99.0
+  },
+  {
+    "name": "Finding out your favorite campus coffee shop is closed indefinitely",
+    "image": "/images/coffee_closed.png",
+    "bad_luck_index": 10.0
+  },
+  {
+    "name": "Having your bike stolen from campus",
+    "image": "/images/stolen_bike.png",
+    "bad_luck_index": 55.0
+  },
+  {
+    "name": "Running into your ex at the library during finals week",
+    "image": "/images/ex_library.png",
+    "bad_luck_index": 40.5
+  },
+  {
+    "name": "Discovering your group project partners did nothing",
+    "image": "/images/lazy_group.png",
+    "bad_luck_index": 80.0
+  },
+  {
+    "name": "Realizing you submitted the wrong assignment file",
+    "image": "/images/wrong_submission.png",
+    "bad_luck_index": 70.0
+  },
+  {
+    "name": "Getting food poisoning from the campus cafeteria",
+    "image": "/images/cafeteria_food.png",
+    "bad_luck_index": 65.0
+  },
+  {
+    "name": "Your shared fridge in the dorm gets unplugged over a long weekend",
+    "image": "/images/unplugged_fridge.png",
+    "bad_luck_index": 35.0
+  },
+  {
+    "name": "Being called on when you haven't done the reading",
+    "image": "/images/called_on.png",
+    "bad_luck_index": 25.0
+  },
+  {
+    "name": "Getting stuck behind a really slow walker on the way to class",
+    "image": "/images/slow_walker.png",
+    "bad_luck_index": 5.0
+  },
+  {
+    "name": "Your favorite study spot is always occupied",
+    "image": "/images/no_study_spot.png",
+    "bad_luck_index": 12.0
+  },
+  {
+    "name": "Having your dorm room flooded",
+    "image": "/images/dorm_flood.png",
+    "bad_luck_index": 90.0
+  },
+  {
+    "name": "Realizing you missed the add/drop deadline for a critical course",
+    "image": "/images/missed_deadline.png",
+    "bad_luck_index": 88.0
+  },
+  {
+    "name": "Your financial aid suddenly gets reduced",
+    "image": "/images/financial_aid.png",
+    "bad_luck_index": 98.0
+  },
+  {
+    "name": "Getting a parking ticket on campus despite having a permit",
+    "image": "/images/parking_ticket.png",
+    "bad_luck_index": 50.0
+  },
+  {
+    "name": "Your printer runs out of ink right before printing an essay",
+    "image": "/images/no_ink.png",
+    "bad_luck_index": 58.0
+  },
+  {
+    "name": "Being assigned a group project with all your least favorite people",
+    "image": "/images/bad_group.png",
+    "bad_luck_index": 78.0
+  },
+  {
+    "name": "Your alarm clock doesn't go off for a class you actually wanted to attend",
+    "image": "/images/alarm_fail.png",
+    "bad_luck_index": 28.0
+  },
+  {
+    "name": "Walking into a glass door on campus",
+    "image": "/images/glass_door.png",
+    "bad_luck_index": 18.0
+  },
+  {
+    "name": "Your roommate throws a loud party the night before your exam",
+    "image": "/images/loud_party.png",
+    "bad_luck_index": 77.0
+  },
+  {
+    "name": "Discovering your entire assignment disappeared from cloud storage",
+    "image": "/images/cloud_lost.png",
+    "bad_luck_index": 87.0
+  },
+  {
+    "name": "Being mistaken for a first-year student as a senior",
+    "image": "/images/first_year.png",
+    "bad_luck_index": 7.0
+  },
+  {
+    "name": "Getting stuck in a research paper rabbit hole for hours",
+    "image": "/images/research_hole.png",
+    "bad_luck_index": 22.0
+  },
+  {
+    "name": "Your favorite professor leaves the university mid-semester",
+    "image": "/images/prof_leaves.png",
+    "bad_luck_index": 62.0
+  },
+  {
+    "name": "Realizing you signed up for a 8 AM class every day",
+    "image": "/images/eight_am.png",
+    "bad_luck_index": 38.0
+  },
+  {
+    "name": "Your laptop charger breaks during a late-night study session",
+    "image": "/images/charger_break.png",
+    "bad_luck_index": 79.0
+  },
+  {
+    "name": "Having your dorm laundry stolen",
+    "image": "/images/stolen_laundry.png",
+    "bad_luck_index": 48.0
+  },
+  {
+    "name": "Receiving a terrible grade on an assignment you thought you aced",
+    "image": "/images/bad_grade.png",
+    "bad_luck_index": 82.0
+  },
+  {
+    "name": "The campus bus is always late when you need it most",
+    "image": "/images/late_bus.png",
+    "bad_luck_index": 20.0
+  },
+  {
+    "name": "Your internet goes out during an online exam",
+    "image": "/images/no_internet_exam.png",
+    "bad_luck_index": 97.0
+  },
+  {
+    "name": "Getting caught cheating (when you weren't!)",
+    "image": "/images/caught_cheating.png",
+    "bad_luck_index": 99.5
+  },
+  {
+    "name": "Your phone runs out of battery during an important call with home",
+    "image": "/images/phone_dead.png",
+    "bad_luck_index": 26.0
+  },
+  {
+    "name": "Being forced to take a class you absolutely hate to graduate",
+    "image": "/images/hate_class.png",
+    "bad_luck_index": 42.0
+  },
+  {
+    "name": "The vending machine eats your money and gives no snack",
+    "image": "/images/vending_machine.png",
+    "bad_luck_index": 8.0
+  },
+  {
+    "name": "Your favorite campus eatery runs out of your go-to meal",
+    "image": "/images/no_fav_meal.png",
+    "bad_luck_index": 16.0
+  },
+  {
+    "name": "Accidentally deleting all your lecture notes",
+    "image": "/images/deleted_notes.png",
+    "bad_luck_index": 74.0
+  },
+  {
+    "name": "Your dorm room has no air conditioning during a heatwave",
+    "image": "/images/no_ac.png",
+    "bad_luck_index": 52.0
+  },
+  {
+    "name": "Being stuck in a mandatory school event you don't care about",
+    "image": "/images/mandatory_event.png",
+    "bad_luck_index": 14.0
+  },
+  {
+    "name": "Realizing your tuition increased unexpectedly",
+    "image": "/images/tuition_increase.png",
+    "bad_luck_index": 94.0
+  },
+  {
+    "name": "Your campus crush sees you trip and fall",
+    "image": "/images/crush_sees_fall.png",
+    "bad_luck_index": 33.0
+  },
+  {
+    "name": "A squirrel steals your sandwich on campus",
+    "image": "/images/squirrel_sandwich.png",
+    "bad_luck_index": 6.0
+  },
+  {
+    "name": "You get a terrible haircut right before graduation photos",
+    "image": "/images/bad_haircut.png",
+    "bad_luck_index": 47.0
+  },
+  {
+    "name": "Your shared bathroom in the dorm is always messy",
+    "image": "/images/messy_bathroom.png",
+    "bad_luck_index": 24.0
+  },
+  {
+    "name": "Getting sick during finals week",
+    "image": "/images/sick_finals.png",
+    "bad_luck_index": 89.0
+  },
+  {
+    "name": "Your best friend transfers to another university",
+    "image": "/images/friend_transfers.png",
+    "bad_luck_index": 68.0
+  }
+]
